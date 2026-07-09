@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.8 (ai-workspace)" />
+  </component>
+  <component name="MaterialThemeProjectNewConfig">
+    <option name="metadata">
+      <MTProjectMetadataState>
+        <option name="userId" value="2d176a74:199cbeedfc9:-7ffd" />
+      </MTProjectMetadataState>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (ai-workspace)" project-jdk-type="Python SDK" />
+</project>
